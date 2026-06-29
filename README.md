@@ -35,11 +35,17 @@ información y generar respuestas segun el prompt pre establecido, además de re
 
 ET_oluciones_con_IA/
 │
+
 ├── src/ # Código principal del sistema
+
 ├── models/ # Lógica o modelos de IA
+
 ├── data/ # Datos del sistema
+
 ├── tests/ # Pruebas
+
 ├── requirements.txt # Dependencias
+
 └── README.md # Documentación
 
 ## Instalacion y ejemplo de uso
