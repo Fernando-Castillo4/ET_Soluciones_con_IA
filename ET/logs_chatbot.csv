@@ -1,0 +1,68 @@
+2026-06-29 16:30:50.756197,"Error code: 401 - {'error': {'code': 'unauthorized', 'message': 'No authorization header or api key found in request.', 'details': 'No authorization header or api key found in request.'}}",0,0,0,True,False
+2026-06-29 16:43:05.810925,HOla,"Error code: 401 - {'error': {'code': 'unauthorized', 'message': 'No authorization header or api key found in request.', 'details': 'No authorization header or api key found in request.'}}",0,0,0,True
+2026-06-29 16:44:22.538966,,"Error code: 401 - {'error': {'code': 'unauthorized', 'message': 'No authorization header or api key found in request.', 'details': 'No authorization header or api key found in request.'}}",0,0,0,True
+2026-06-29 16:44:26.180713,Hola,"Error code: 401 - {'error': {'code': 'unauthorized', 'message': 'No authorization header or api key found in request.', 'details': 'No authorization header or api key found in request.'}}",0,0,0,True
+2026-06-29 16:47:09.244461,Hola,"Error code: 401 - {'error': {'code': 'unauthorized', 'message': 'No authorization header or api key found in request.', 'details': 'No authorization header or api key found in request.'}}",0,0,0,True
+2026-06-29 16:57:18.085156,,Parece que tu mensaje está incompleto. ¿Podrías especificar cuál es la consulta del paciente o el tema sobre el que necesitas recomendaciones y una respuesta? Así podré ayudarte de manera más precisa.,2.632035493850708,9.8,89.5,False
+2026-06-29 16:57:22.209770,Hola,"¡Hola! ¿En qué puedo ayudarte hoy? Si tienes alguna consulta médica o necesitas recomendaciones específicas, por favor dime más detalles para poder orientarte mejor. Recuerda siempre seguir las indicaciones generales de tu equipo médico.",2.192760467529297,9.4,90.2,False
+2026-06-29 16:57:34.501159,Hola,"¡Hola! Bienvenido. Recuerda siempre seguir las indicaciones generales de tu equipo médico para cuidar tu salud. Si tienes alguna pregunta específica o necesitas orientación, estoy aquí para ayudarte.
+
+Reporte generado:
+El paciente ha saludado y se le recuerda seguir las indicaciones generales de su equipo médico.",5.401889801025391,7.7,90.6,False
+2026-06-29 16:57:57.807072,Me puedes indicar como puedo prepararme para una operacion?,"Para prepararte para una operación, es fundamental seguir siempre las indicaciones generales de tu equipo médico. Ellos te darán instrucciones específicas según tu caso, pero algunas recomendaciones generales incluyen:
+
+- Realizar los estudios preoperatorios que te indiquen (análisis de sangre, electrocardiograma, etc.).
+- Informar a tu médico sobre cualquier medicamento que estés tomando y seguir sus indicaciones sobre cuáles suspender o continuar.
+- Mantener ayuno si así te lo solicitan (generalmente de 6 a 8 horas antes de la cirugía).
+- No fumar ni consumir alcohol antes de la operación.
+- Asistir acompañado el día de la cirugía.
+- Llevar todos los documentos médicos y estudios previos.
+
+Reporte generado:
+El paciente solicita información sobre cómo prepararse para una operación. Se le recuerda seguir las indicaciones generales de su equipo médico y se brindan recomendaciones generales preoperatorias.",8.587457656860352,5.9,90.6,False
+2026-06-29 16:58:34.210135,Puedes decirme como puedo prepararme para una operacion?,"Para prepararte para una operación, es importante seguir siempre las indicaciones generales de tu equipo médico. Ellos te darán instrucciones específicas según tu caso, pero en general:
+
+- Realiza los estudios preoperatorios que te indiquen (análisis de sangre, electrocardiograma, etc.).
+- Informa a tu médico sobre cualquier medicamento que estés tomando y sigue sus indicaciones sobre cuáles suspender o continuar.
+- Mantén ayuno si así te lo solicitan (generalmente de 6 a 8 horas antes de la cirugía).
+- No fumes ni consumas alcohol antes de la operación.
+- Asiste acompañado el día de la cirugía.
+- Lleva todos los documentos médicos y estudios previos.
+
+Reporte generado:
+El paciente solicita información sobre cómo prepararse para una operación. Se le recuerda seguir las indicaciones generales de su equipo médico y se brindan recomendaciones generales preoperatorias.",6.5915961265563965,7.4,86.7,False
+2026-06-29 16:58:50.792925,a,"Respuesta:
+Siga siempre las indicaciones generales de su equipo médico para prepararse antes de una operación. Si tiene alguna pregunta específica, por favor indíquela para poder orientarle mejor.
+
+Reporte generado:
+El paciente realizó una consulta breve ('a'). Se le recuerda seguir las indicaciones generales de su equipo médico.",6.028446912765503,8.8,88.2,False
+2026-06-29 16:59:03.970045,e,"Respuesta:
+Siga siempre las indicaciones generales de su equipo médico para prepararse antes de una operación. Si tiene alguna pregunta específica, por favor indíquela para poder orientarle mejor.
+
+Reporte generado:
+El paciente realizó una consulta breve ('e'). Se le recuerda seguir las indicaciones generales de su equipo médico.",6.949636220932007,6.8,88.3,False
+2026-06-29 17:00:11.477497,,"Parece que tu consulta está incompleta. ¿Podrías especificar cuál es tu pregunta o inquietud para que pueda buscar recomendaciones y generar una respuesta adecuada? 
+
+Recuerda: siempre sigue las indicaciones generales de tu equipo médico. ¿Sobre qué tema necesitas orientación?",3.738877296447754,11.4,92.8,False
+2026-06-29 17:25:09.933621,,"Las recomendaciones generales antes de una cirugía son:
+
+- Siga siempre las indicaciones de su equipo médico.
+- Consulte cualquier duda o síntoma nuevo con su médico.
+- No tome medicamentos sin autorización previa.
+- Mantenga una dieta adecuada según lo indicado.
+- Acuda a los controles preoperatorios programados.
+
+¿Desea información específica sobre algún aspecto del proceso preoperatorio?",6.489535093307495,10.3,91.1,False
+2026-06-29 17:25:18.933660,Hola,"¡Hola! ¿En qué puedo ayudarte hoy respecto a tus preparativos para la cirugía? Si tienes alguna pregunta específica o necesitas recomendaciones preoperatorias, por favor dime más detalles para poder orientarte mejor.",2.722092390060425,13.8,85.4,False
+2026-06-29 17:25:54.563803,dime como debo ir a una cirugia?,"Para ir a una cirugía, debes:
+
+- Seguir siempre las indicaciones generales de tu equipo médico.
+- Asistir en ayunas si así te lo indicaron (no comer ni beber antes de la cirugía).
+- Llevar tus documentos de identificación y estudios médicos previos.
+- No tomar medicamentos sin autorización previa.
+- Usar ropa cómoda y evitar objetos metálicos o joyas.
+- Acudir acompañado si es posible.
+
+Si tienes instrucciones específicas de tu médico, sigue esas recomendaciones. ¿Necesitas información sobre algún aspecto particular?",6.624670028686523,6.8,84.4,False
+2026-06-29 17:28:50.385029,Hola,"¡Hola! ¿En qué puedo ayudarte hoy? Si tienes alguna consulta médica o necesitas recomendaciones específicas, por favor dime más detalles para poder orientarte mejor. Recuerda siempre seguir las indicaciones de tu equipo médico.",3.333878517150879,10.8,89.2,False
+2026-06-29 17:41:55.673591,hola,"¡Hola! ¿En qué puedo ayudarte hoy? Si tienes alguna consulta médica o necesitas recomendaciones específicas, por favor dime más detalles para poder orientarte mejor. Recuerda siempre seguir las indicaciones de tu equipo médico.",3.1914775371551514,8.0,87.6,False
